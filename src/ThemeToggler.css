@@ -1,0 +1,32 @@
+.toggler-btn {
+  width: 48px;              
+  height: 28px;             
+  display: flex;            
+  align-items: center;      
+  padding: 4px;             
+  cursor: pointer;          
+  transition: background-color 0.3s ease; 
+
+}
+
+.toggler-circle {
+  border-radius: 9999px; 
+}
+
+
+.toggler-inner {
+  width: 19px;              
+  height: 19px;             
+  font-size: 1.25rem;       
+  line-height: 1.75rem;
+  transition: transform 0.3s ease-in-out; 
+}
+
+
+.toggler-translate-0 {
+  transform: translateX(0);
+}
+
+.toggler-translate-5 {
+  transform: translateX(20px);
+}
