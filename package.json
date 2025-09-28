@@ -6,7 +6,28 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "theme-toggler",
+    "dark-theme",
+    "light-theme",
+    "tailwindcss-theme",
+    "react-theme-component",
+    "theme-button",
+    "plug-and-play-component"
+  ],
+  "author": "Pt. Bhupender Kumar Sharma",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-react": "^7.27.1",
+    "@rollup/plugin-node-resolve": "^16.0.1",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "rollup": "^2.79.2",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-dom": "*"
+  }
 }
