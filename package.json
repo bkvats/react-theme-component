@@ -1,0 +1,12 @@
+{
+  "name": "react-theme-component",
+  "version": "1.0.0",
+  "description": "A plug-and-play React theme toggler with dark/light mode support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
