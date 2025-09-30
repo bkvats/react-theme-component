@@ -20,7 +20,7 @@ A React theme toggler with dark/light mode support based on TailwindCSS.
 
 [![npm][npm-image]][npm-url]
 
-[npm-image]: https://res.cloudinary.com/duhmeadz6/image/upload/v1759219823/npm_version_badge_gj4zpj.svg
+[npm-image]: https://res.cloudinary.com/duhmeadz6/image/upload/v1759220736/npm_version_badge_ddgwo9.svg
 [npm-url]: https://www.npmjs.com/package/react-theme-component
 
 ## Installation
