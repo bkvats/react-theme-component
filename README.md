@@ -20,7 +20,7 @@ A React theme toggler with dark/light mode support based on TailwindCSS.
 
 [![npm][npm-image]][npm-url]
 
-[npm-image]: https://res.cloudinary.com/duhmeadz6/image/upload/v1759165885/npm_version_badge_fnllkv.svg
+[npm-image]: https://res.cloudinary.com/duhmeadz6/image/upload/v1759219823/npm_version_badge_gj4zpj.svg
 [npm-url]: https://www.npmjs.com/package/react-theme-component
 
 ## Installation
@@ -60,7 +60,7 @@ export default function ThemeToggler({
     icons = true,
     lightOuterColor = "#d1d5dc",
     lightInnerColor = "black",
-    darkOuterColor = "#00000080",
+    darkOuterColor = "black",
     darkInnerColor = "#d1d5dc",
     extras = ""
 }) {
