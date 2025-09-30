@@ -9,7 +9,7 @@ export default function ThemeToggler({
     icons = true,
     lightOuterColor = "#d1d5dc",
     lightInnerColor = "black",
-    darkOuterColor = "#00000080",
+    darkOuterColor = "black",
     darkInnerColor = "#d1d5dc",
     extras = ""
 }) {
